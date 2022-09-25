@@ -1,3 +1,4 @@
+//function takes an array of numbers and a number as args. returns the number of even numbers from array, as specified by number arg.
 function evenNumbers(array, number) {
     let newArr = []
     array.filter(x=> {
